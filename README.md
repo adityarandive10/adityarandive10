@@ -1,107 +1,96 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061B17,35:0C3028,70:174B3D,100:061B17&height=240&section=header&text=ADITYA%20RANDIVE&fontSize=48&fontColor=E8C878&fontAlignY=38&desc=ENGINEERING%20THE%20FUTURE%20%E2%80%A2%20ONE%20SYSTEM%20AT%20A%20TIME&descSize=13&descColor=E5DFC9&descAlignY=58" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D0C,40:0B3028,100:174B3D&height=230&section=header&text=ADITYA%20RANDIVE&fontSize=48&fontColor=E7C77A&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20GENAI&descSize=15&descColor=E8E4D8&descAlignY=58" />
 
 <br/>
 
-# أهلاً وسهلاً
+### Building ideas into intelligent systems.
 
-### Welcome to my digital world.
-
-**Backend Engineer · GenAI Developer · Problem Solver**
-
-<p>
-<em>من الفكرة إلى الابتكار</em>
-<br/>
-<sub>From an idea to innovation.</sub>
-</p>
+**Backend Engineering · Generative AI · Problem Solving**
 
 <br/>
 
 <a href="https://github.com/adityarandive10">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-C6A15B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-Explore%20Projects-C6A15B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-randive-6201672b8/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-C6A15B?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-C6A15B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/mr_ad1tya/">
-<img src="https://img.shields.io/badge/LeetCode-My%20Journey-C6A15B?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LEETCODE-My%20Journey-C6A15B?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=D6B66F&center=true&vCenter=true&width=700&lines=Architecting+Backend+Systems;Exploring+Generative+AI+%26+LLMs;Building+Intelligent+Applications;Learning+System+Design;Turning+Curiosity+Into+Creation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=800&color=C6A15B&center=true&vCenter=true&width=700&lines=Backend+Engineering;Generative+AI+%26+Intelligent+Systems;Building+Scalable+Applications;Exploring+System+Design;Always+Learning.+Always+Building." />
+
+<br/>
+
+<sub>✦ Crafted with curiosity. Driven by innovation. ✦</sub>
 
 </div>
 
 ---
 
-<div align="center">
+## 01 / ABOUT ME
 
-### ✧ بِسْمِ الإِبْدَاعِ ✧
+<img align="right" width="130" src="https://skillicons.dev/icons?i=python,cpp,java,nodejs,react&perline=2" />
 
-*Driven by curiosity. Defined by creation.*
+I'm **Aditya Randive**, a Computer Science student at **Symbiosis Institute of Technology, Pune**.
 
-</div>
+I'm passionate about engineering software, understanding complex systems and exploring the intersection of Backend Engineering and Artificial Intelligence.
 
-## ◈ 01 — The Developer Behind the Code
+- 🎓 Computer Science Student — SIT Pune
+- ⚙️ Backend Engineering & API Development
+- 🤖 Generative AI, RAG, LLMs & AI Agents
+- 🧠 Data Structures & Algorithms
+- 💼 Intern @ Cravita Tech
+- ☁️ Trainee @ Fortune Cloud
+- 🏗️ System Design & Distributed Systems
+- 🚀 Hackathons and Real-world Product Development
 
-Hello! I'm **Aditya Randive**, a Computer Science student at **Symbiosis Institute of Technology, Pune**, fascinated by the engineering behind intelligent and scalable software.
-
-I enjoy understanding how things work beneath the surface — from backend architectures and database systems to AI-powered applications.
-
-**A little about my journey:**
-
-- 🎓 Computer Science student at SIT Pune
-- ⚙️ Passionate about Backend Engineering and scalable systems
-- 🤖 Exploring Generative AI, RAG, LLMs and Agentic AI
-- 🧠 Practising Data Structures & Algorithms
-- 💼 Intern at **Cravita Tech** · Trainee at **Fortune Cloud**
-- 🏗️ Interested in System Design, Distributed Systems and Cloud Computing
-- 🚀 Building projects that turn ideas into practical solutions
-
-> I don't just want to write code. I want to understand systems, solve meaningful problems and build technology that matters.
+<br clear="right"/>
 
 ---
 
-## ◈ 02 — The Technology Kingdom
+## 02 / TECH STACK
 
 <div align="center">
 
-### Languages & Foundations
+### PROGRAMMING LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,c&theme=dark" />
 
-### Backend Engineering
+### BACKEND ENGINEERING
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,spring&theme=dark" />
 
-### Frontend Engineering
+### FRONTEND DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 
-### Data & Databases
+### DATABASES & STORAGE
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase&theme=dark" />
 
-### Cloud, Tools & Infrastructure
+### CLOUD & DEVELOPER TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,vscode&theme=dark" />
 
 </div>
 
-### AI & Generative Intelligence
+### AI / GENAI ECOSYSTEM
 
-`OpenAI` · `Mistral` · `LLMs` · `RAG` · `ChromaDB` · `Vector Databases` · `AI Agents` · `Prompt Engineering`
+`OpenAI` · `Mistral` · `LangChain` · `RAG` · `ChromaDB` · `Vector Databases` · `LLMs` · `AI Agents`
 
 ---
 
-## ◈ 03 — The Innovation Gallery
+## 03 / SELECTED PROJECTS
 
 <div align="center">
 
-*Ideas are easy. Engineering them into reality is the adventure.*
+*Engineering ideas. Building experiences. Solving problems.*
 
 </div>
 
@@ -109,46 +98,46 @@ I enjoy understanding how things work beneath the surface — from backend archi
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 CancerAI</h3>
+### ◈ CancerAI
 
-Machine-learning based cancer drug response prediction system.
+Machine learning based cancer drug response prediction system.
 
-**Technologies**
+**Stack**
 
-`Python` `ML` `React`
+`Python` `Machine Learning` `React`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>⚖️ LawLink</h3>
+### ◈ LawLink
 
-An intelligent legal learning and document literacy platform powered by AI.
+AI-powered legal learning and document literacy platform.
 
-**Technologies**
+**Stack**
 
-`React` `Node.js` `MongoDB` `AI`
+`React` `Node.js` `Express` `MongoDB`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>📈 MarketSentinel</h3>
+### ◈ MarketSentinel
 
 AI-powered financial intelligence and market analysis platform.
 
-**Technologies**
+**Stack**
 
 `Python` `AI` `Data Processing`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🛡️ Scribe</h3>
+### ◈ Scribe
 
 LLM-assisted code auditing and security analysis engine.
 
-**Technologies**
+**Stack**
 
 `Python` `LLMs` `SAST` `Security`
 
@@ -157,24 +146,24 @@ LLM-assisted code auditing and security analysis engine.
 <tr>
 <td width="50%" valign="top">
 
-<h3>💼 PlaceMe</h3>
+### ◈ PlaceMe
 
-A recruitment ecosystem connecting students, recruiters and opportunities.
+Recruitment ecosystem connecting students and recruiters.
 
-**Technologies**
+**Stack**
 
 `MERN` `REST APIs` `Authentication`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🧠 GenAI Lab</h3>
+### ◈ GenAI Lab
 
-A growing collection of experiments with LLMs, retrieval pipelines and intelligent agents.
+Experiments with retrieval pipelines, LLM applications and AI agents.
 
-**Technologies**
+**Stack**
 
-`Python` `OpenAI` `Mistral` `RAG`
+`Python` `OpenAI` `Mistral` `ChromaDB`
 
 </td>
 </tr>
@@ -182,39 +171,39 @@ A growing collection of experiments with LLMs, retrieval pipelines and intellige
 
 ---
 
-## ◈ 04 — The DSA Expedition
+## 04 / PROBLEM SOLVING
 
 <div align="center">
 
+<a href="https://leetcode.com/u/mr_ad1tya/">
 <img src="https://leetcard.jacoblin.cool/mr_ad1tya?theme=dark&font=Baloo&ext=contest" width="500" />
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CURRENT%20MILESTONE-158%2B%20PROBLEMS-C6A15B?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LEETCODE-158%2B%20SOLVED-C6A15B?style=for-the-badge&logo=leetcode&logoColor=white" />
 
-<br/><br/>
+### CURRENT MILESTONE
 
-**The destination: 500+ problems**
+`158+` ━━━━━━━━━━━━━━━━━━━━━━━ `500+`
 
-`158+` ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ `500+`
-
-*Every problem solved is another step towards mastering the art of problem solving.*
+*Progress over perfection. Consistency over shortcuts.*
 
 </div>
 
 ---
 
-## ◈ 05 — The Developer Observatory
+## 05 / GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=adityarandive10&show_icons=true&theme=transparent&title_color=C6A15B&icon_color=C6A15B&text_color=E5DFC9&border_color=31564A&hide_border=false&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityarandive10&show_icons=true&theme=transparent&title_color=C6A15B&icon_color=C6A15B&text_color=E8E4D8&border_color=285044&rank_icon=github" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarandive10&layout=compact&theme=transparent&title_color=C6A15B&text_color=E5DFC9&border_color=31564A&hide_border=false" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarandive10&layout=compact&theme=transparent&title_color=C6A15B&text_color=E8E4D8&border_color=285044" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=adityarandive10&theme=dark&background=061B17&ring=C6A15B&fire=D9A441&currStreakLabel=C6A15B&sideLabels=E5DFC9&dates=8A9B90&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=adityarandive10&theme=dark&background=080D0C&ring=C6A15B&fire=C6A15B&currStreakLabel=C6A15B&sideLabels=E8E4D8&dates=8A9B90&hide_border=true" />
 
 <br/><br/>
 
@@ -224,62 +213,59 @@ A growing collection of experiments with LLMs, retrieval pipelines and intellige
 
 ---
 
-## ◈ 06 — The Learning Roadmap
+## 06 / CURRENT FOCUS
 
-| Domain | Current Mission |
+| Area | Mission |
 |:--|:--|
-| DSA | Strong fundamentals and advanced problem solving |
-| Backend | Java, Spring Boot, APIs and databases |
-| GenAI | RAG, LLM applications and AI agents |
-| System Design | Distributed and scalable architectures |
-| DevOps | Docker, Linux, AWS and CI/CD |
-| Open Source | Meaningful community contributions |
+| DSA | Advanced problem solving |
+| Backend | Java, Spring Boot, APIs |
+| GenAI | RAG, LLMs, AI Agents |
+| System Design | Scalable architectures |
+| DevOps | Docker, Linux, AWS |
+| Open Source | Community contributions |
 
 ---
 
-## ◈ 07 — The Vision: 2026–2027
+## 07 / THE ROAD AHEAD
 
-- [ ] Cross 500 LeetCode problems
-- [ ] Become stronger in Java and Spring Boot
-- [ ] Build production-ready GenAI applications
-- [ ] Master practical RAG and AI agent architectures
-- [ ] Understand scalable system design
-- [ ] Contribute to impactful open-source projects
-- [ ] Participate in hackathons and developer communities
-- [ ] Build software that solves real-world problems
+**2026 — 2027**
+
+- [ ] 500+ LeetCode problems
+- [ ] Strong Java + Spring Boot foundation
+- [ ] Production-grade GenAI applications
+- [ ] Advanced RAG and AI Agent architectures
+- [ ] System Design & Distributed Systems
+- [ ] Meaningful open-source contributions
+- [ ] Hackathons and real-world engineering
 
 ---
+
+## 08 / CONNECT
 
 <div align="center">
 
-## ✧ خارج حدود المألوف ✧
-
-### Beyond the ordinary.
-
-*Stay curious. Think deeply. Build fearlessly.*
-
-<br/>
+### Let's build something meaningful.
 
 <a href="https://github.com/adityarandive10">
-<img src="https://img.shields.io/badge/GitHub-ADITYA%20RANDIVE-C6A15B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-C6A15B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/aditya-randive-6201672b8/">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-C6A15B?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-C6A15B?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/mr_ad1tya/">
+<img src="https://img.shields.io/badge/LeetCode-Follow-C6A15B?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=adityarandive10&label=SOULS%20WHO%20VISITED&color=174B3D&style=for-the-badge" />
+<sub>بِسْمَة — A subtle signature of creativity</sub>
 
-<br/><br/>
+### Think. Engineer. Innovate.
 
-<sub>◆ علم · إبداع · طموح ◆</sub>
+<img src="https://komarev.com/ghpvc/?username=adityarandive10&label=PROFILE%20VISITS&color=174B3D&style=for-the-badge" />
 
 <br/>
 
-<sub>Knowledge · Creativity · Ambition</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061B17,35:0C3028,70:174B3D,100:061B17&height=130&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D0C,40:0B3028,100:174B3D&height=120&section=footer" />
 
 </div>
