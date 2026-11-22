@@ -1,142 +1,172 @@
 
-<!-- ==================== HEADER ==================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0B3028&text=ADITYA%20RANDIVE&fontColor=C6A15B&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20GENAI&descAlignY=58&descSize=15" width="100%" />
-
-<h3>Computer Science Student | Backend & Generative AI Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0B3028&fontColor=C6A15B&text=ADITYA%20RANDIVE&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20GENERATIVE%20AI&descAlignY=59&descSize=14&animation=fadeIn"/>
 
 <p dir="rtl"><em>حكمة · علم · عمل</em></p>
 <p><sub>Wisdom · Knowledge · Action</sub></p>
 
-<p>
-  <a href="https://github.com/adityarandive10">
-    <img src="https://img.shields.io/badge/GitHub-0B3028?style=for-the-badge&logo=github&logoColor=C6A15B"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-randive-6201672b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B3028?style=for-the-badge&logo=linkedin&logoColor=C6A15B"/>
-  </a>
-  <a href="https://leetcode.com/u/mr_ad1tya/">
-    <img src="https://img.shields.io/badge/LeetCode-0B3028?style=for-the-badge&logo=leetcode&logoColor=C6A15B"/>
-  </a>
-</p>
+<a href="https://github.com/adityarandive10">
+<img src="https://img.shields.io/badge/GitHub-0B3028?style=for-the-badge&logo=github&logoColor=C6A15B"/>
+</a>
+<a href="https://www.linkedin.com/in/aditya-randive-6201672b8/">
+<img src="https://img.shields.io/badge/LinkedIn-0B3028?style=for-the-badge&logo=linkedin&logoColor=C6A15B"/>
+</a>
+<a href="https://leetcode.com/u/mr_ad1tya/">
+<img src="https://img.shields.io/badge/LeetCode-0B3028?style=for-the-badge&logo=leetcode&logoColor=C6A15B"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=C6A15B&center=true&vCenter=true&width=650&lines=Backend+Development;Generative+AI+%26+LLM+Applications;REST+APIs+%26+Database+Systems;RAG+Pipelines+%26+AI+Agents;Data+Structures+%26+Algorithms" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=adityarandive10&label=PROFILE+VIEWS&color=0B3028&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ==================== PROFILE ==================== -->
+## 🧭 About Me
 
-<div align="center">
+```yaml
+name: Aditya Randive
+education: Computer Science Engineering
+institution: Symbiosis Institute of Technology, Pune
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=C6A15B&center=true&vCenter=true&width=600&lines=Backend+Development;Generative+AI+%26+RAG;REST+APIs+%26+System+Design;Data+Structures+%26+Algorithms" />
+interests:
+  - Backend Engineering
+  - Generative AI
+  - Large Language Models
+  - Retrieval-Augmented Generation
+  - Data Structures and Algorithms
+  - System Design
 
-</div>
+currently:
+  - Developing backend applications
+  - Exploring LLM-based applications
+  - Working with APIs and databases
+  - Practising problem solving
+```
 
-## 01 / ABOUT ME
-
-- Computer Science student at **Symbiosis Institute of Technology, Pune**.
-- Interested in Backend Development, Generative AI, and Software Engineering.
-- Working with REST APIs, databases, and backend architecture.
-- Exploring LLMs, RAG systems, and AI agents.
-- Practising Data Structures and Algorithms.
+- Computer Science student interested in building backend systems and AI-powered applications.
+- Experience with web development, database integration, and API development.
+- Exploring RAG architectures, vector databases, LLMs, and AI agents.
 - Intern at **Cravita Tech**.
 - Trainee at **Fortune Cloud**.
 
-## 02 / TECH STACK
+---
+
+## 🧰 Tech Stack & Tools
+
+<div align="center">
 
 ### Programming Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,c&theme=dark"/>
-</p>
 
-### Backend Development
+### Backend & Frameworks
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,spring&theme=dark"/>
-</p>
 
 ### Frontend Development
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
-</p>
 
-### Databases
+### Databases & Storage
 
-<p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase&theme=dark"/>
-</p>
 
-### Cloud, DevOps & Tools
+### Cloud, DevOps & Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,vscode&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,postman,vscode&theme=dark"/>
 
-### AI / Machine Learning
+</div>
 
-`OpenAI` · `Mistral` · `LangChain` · `RAG` · `ChromaDB` · `Vector Databases` · `LLMs` · `AI Agents`
+### AI / Generative AI Ecosystem
+
+`OpenAI API` · `Mistral` · `LangChain` · `RAG` · `ChromaDB` · `Vector Databases` · `LLMs` · `AI Agents` · `Prompt Engineering`
 
 ---
 
-## 03 / SELECTED PROJECTS
+## 🏗️ Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| **CancerAI** | AI-based cancer-related application | Python, ML, AI |
-| **LawLink** | Legal learning and document literacy platform | React, Node.js, MongoDB |
-| **MarketSentinel** | Market analysis and monitoring application | Python, AI |
-| **Scribe** | AI-powered code auditing and security engine | Python, GenAI |
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| **LawLink** | Legal learning and document literacy platform with an AI legal assistant and document generation | React, Node.js, MongoDB, AI |
 | **PlaceMe** | Recruitment and placement management platform | React, Django, PostgreSQL |
+| **CancerAI** | AI-based cancer-related application | Python, Machine Learning |
+| **MarketSentinel** | Market analysis and monitoring application | Python, AI |
+| **Scribe** | AI-powered code auditing and security engine | Python, Generative AI |
 | **GenAI Lab** | Collection of Generative AI experiments and implementations | Python, OpenAI, LangChain |
 
 ---
 
-## 04 / PROBLEM SOLVING
+## 💻 Problem Solving
 
 <div align="center">
 
 <a href="https://leetcode.com/u/mr_ad1tya/">
-<img src="https://leetcard.jacoblin.cool/mr_ad1tya?theme=dark&font=Fira%20Code&ext=heatmap" width="65%"/>
+<img src="https://leetcard.jacoblin.cool/mr_ad1tya?theme=dark&font=Fira%20Code&ext=heatmap" width="75%"/>
 </a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/mr_ad1tya/">LeetCode Profile</a>
 
 </div>
 
 ---
 
-## 05 / GITHUB ANALYTICS
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityarandive10&show_icons=true&theme=transparent&title_color=C6A15B&icon_color=C6A15B&text_color=FFFFFF&border_color=174B3D"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityarandive10&show_icons=true&hide_border=true&bg_color=080D0C&title_color=C6A15B&icon_color=C6A15B&text_color=FFFFFF&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarandive10&layout=compact&theme=transparent&title_color=C6A15B&text_color=FFFFFF&border_color=174B3D"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarandive10&layout=compact&hide_border=true&bg_color=080D0C&title_color=C6A15B&text_color=FFFFFF"/>
 
-<img src="https://streak-stats.demolab.com?user=adityarandive10&theme=transparent&ring=C6A15B&fire=C6A15B&currStreakLabel=C6A15B&sideLabels=FFFFFF&dates=AAAAAA&border=174B3D"/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityarandive10&theme=darkhub&no-frame=true&row=1&column=6"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=adityarandive10&hide_border=true&background=080D0C&ring=C6A15B&fire=C6A15B&currStreakLabel=C6A15B&sideLabels=FFFFFF&dates=AAAAAA"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=adityarandive10&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
 ---
 
-## 06 / AREAS OF INTEREST
+## 🐍 Contribution Activity
 
-- Backend Engineering
-- Generative AI and LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- Data Structures and Algorithms
-- System Design
-- Distributed Systems
-- Cloud Computing and DevOps
-- Open Source Development
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/adityarandive10/adityarandive10/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
 
 ---
 
-## 07 / CONNECT
+## ⚙️ Areas of Interest
+
+<div align="center">
+
+| Area | Topics |
+|:---|:---|
+| Backend Engineering | Node.js, Express, FastAPI, REST APIs |
+| AI Engineering | LLMs, RAG, AI Agents, LangChain |
+| Databases | PostgreSQL, MongoDB, Redis, Vector DBs |
+| Computer Science | DSA, OOP, DBMS, OS, Computer Networks |
+| System Architecture | System Design, Microservices, Distributed Systems |
+| DevOps | Linux, Docker, AWS, CI/CD |
+
+</div>
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -152,16 +182,11 @@
 <img src="https://img.shields.io/badge/LeetCode-0B3028?style=for-the-badge&logo=leetcode&logoColor=C6A15B"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <p dir="rtl"><em>الطموح لا حدود له</em></p>
-
 <p><sub>Ambition has no limits.</sub></p>
-
-<img src="https://komarev.com/ghpvc/?username=adityarandive10&label=PROFILE+VIEWS&color=0B3028&style=flat" />
 
 </div>
 
-<!-- ==================== FOOTER ==================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B3028&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3028&height=110&section=footer"/>
