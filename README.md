@@ -1,195 +1,116 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Aditya Randive
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B18,50:123B32,100:071B18&height=190&section=header&text=ADITYA%20RANDIVE&fontSize=42&fontColor=E8C878&fontAlignY=42&desc=BACKEND%20ENGINEERING%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20PROBLEM%20SOLVING&descSize=13&descColor=E8E2D2&descAlignY=66" width="100%" />
 
-### 🚀 Backend Engineer • GenAI Developer • Problem Solver
+### Backend Developer · GenAI Builder · Computer Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Engineering+%7C+GenAI+%7C+DSA;Building+real-world+software;158%2B+LeetCode+problems+solved;Learning+System+Design+%26+AI+Agents;Hackathon+Builder+%26+Problem+Solver" />
+<p><em>حكمة · علم · عمل</em></p>
+<p><sub>Wisdom · Knowledge · Action</sub></p>
 
-<br>
+<a href="https://www.linkedin.com/in/aditya-randive-6201672b8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-C49A45?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/mr_ad1tya/"><img src="https://img.shields.io/badge/LeetCode-mr__ad1tya-C49A45?style=flat-square&logo=leetcode&logoColor=white" /></a>
+<a href="https://github.com/adityarandive10"><img src="https://img.shields.io/badge/GitHub-adityarandive10-C49A45?style=flat-square&logo=github&logoColor=white" /></a>
 
-<a href="https://leetcode.com/u/mr_ad1tya/">
-<img src="https://img.shields.io/badge/LeetCode-158%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-<a href="https://github.com/adityarandive10">
-<img src="https://img.shields.io/badge/GitHub-adityarandive10-black?style=for-the-badge&logo=github">
-</a>
-<a href="https://www.linkedin.com/in/aditya-randive-6201672b8/">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Randive-blue?style=for-the-badge&logo=linkedin">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=C49A45&center=true&vCenter=true&width=650&lines=Building+reliable+backend+systems;Exploring+GenAI%2C+RAG+%26+AI+agents;Learning+by+building+real+products;Turning+ideas+into+working+software" />
 
 </div>
 
 ---
 
-## 🧭 About Me
+## ✦ About Me
 
-- 🎓 Computer Science student at **SIT Pune**
-- 💻 Focused on **Backend Engineering**
-- 🤖 Exploring **Generative AI, RAG, LLMs & AI Agents**
-- 🧠 Solving **Data Structures & Algorithms** problems on LeetCode
-- 🏆 Active **Hackathon Builder**
-- 🏗️ Interested in **System Design & scalable applications**
-- 🚀 I enjoy turning ideas into complete, working products
+I'm **Aditya Randive**, a Computer Science student at **Symbiosis Institute of Technology, Pune**, interested in building useful, scalable software.
 
----
-
-# 🧰 Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,c" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,flask" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
-</p>
-
-### 🤖 AI / GenAI
-
-`OpenAI` • `Mistral` • `RAG` • `LLMs` • `Vector Databases` • `AI Agents`
-
-### 🛠️ Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
-</p>
+- 🎓 Computer Science student at SIT Pune
+- ⚙️ Focused on backend engineering, APIs and databases
+- 🤖 Exploring Generative AI, RAG, LLMs and AI agents
+- 🧩 Practising Data Structures & Algorithms
+- 💼 Intern at **Cravita Tech** · Trainee at **Fortune Cloud**
+- 🏗️ Interested in system design, distributed systems and cloud technologies
+- 🚀 I enjoy taking ideas from an initial concept to a working product
 
 ---
 
-# 🧠 LeetCode Journey
+## ✦ Technology Arsenal
+
+| Domain | Technologies |
+|:--|:--|
+| **Languages** | C++ · Python · Java · JavaScript · TypeScript |
+| **Backend** | Node.js · Express · FastAPI · Django · Spring Boot |
+| **Frontend** | React · HTML5 · CSS3 · Tailwind CSS |
+| **Databases** | PostgreSQL · MongoDB · MySQL · Redis · Firebase |
+| **AI Engineering** | OpenAI · Mistral · RAG · LLMs · Vector Databases · AI Agents |
+| **Tools & Cloud** | Git · GitHub · Docker · Linux · Postman · VS Code |
 
 <div align="center">
 
-<a href="https://leetcode.com/u/mr_ad1tya/">
-
-<img src="https://leetcard.jacoblin.cool/mr_ad1tya?theme=dark&font=Baloo&ext=contest" />
-
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Problems%20Solved-158%2B-orange?style=for-the-badge&logo=leetcode">
-
-</div>
-
-### 🎯 Current Goal
-
-```text
-158 Problems ───────────────────────────────► 500+ Problems
-                     🚀
-```
-
-> My goal is not just to increase the problem count — it's to become genuinely strong at problem solving and DSA.
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityarandive10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarandive10&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=adityarandive10&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,nodejs,express,react,fastapi,spring,mongodb,postgres,redis,docker,linux,git,github&perline=9" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityarandive10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
+## ✦ Featured Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 CancerAI
 
-Machine-learning based cancer drug response prediction system.
+Machine-learning system for cancer drug response prediction.
 
-**Tech:** Python • Machine Learning • React
+**Stack:** Python · Machine Learning · React
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚖️ LawLink
 
 AI-powered legal learning and document literacy platform.
 
-**Tech:** React • Node.js • Express • MongoDB • AI
+**Stack:** React · Node.js · Express · MongoDB · AI
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📈 MarketSentinel
 
-AI-powered financial intelligence and market analysis platform.
+Financial intelligence and market analysis platform.
 
-**Tech:** AI • Python • Data Processing
+**Stack:** Python · AI · Data Processing
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛡️ Scribe
 
-AI-powered code auditing and security analysis engine.
+LLM-assisted code auditing and security analysis (SAST) tool.
 
-**Tech:** Python • AI • Security
+**Stack:** Python · LLMs · Application Security
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💼 PlaceMe
 
-Career and recruitment platform for students and recruiters.
+Recruitment and career platform connecting students and recruiters.
 
-**Tech:** MERN • REST APIs • Authentication
+**Stack:** MERN · REST APIs · Authentication
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🧠 GenAI Lab
 
-### 🧠 GenAI Projects
+Experiments with LLM applications, retrieval pipelines and AI agents.
 
-Experiments and applications involving LLMs, RAG, APIs and AI agents.
-
-**Tech:** Python • OpenAI • Mistral • RAG
+**Stack:** Python · OpenAI · Mistral · ChromaDB · RAG
 
 </td>
 </tr>
@@ -197,66 +118,87 @@ Experiments and applications involving LLMs, RAG, APIs and AI agents.
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/adityarandive10/adityarandive10/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🎯 2026–27 Goals
-
-- 🧠 Solve **500+ LeetCode problems**
-- ☕ Become strong in **Java + Spring Boot**
-- 🤖 Build production-level **GenAI applications**
-- 🔎 Master **RAG & AI Agents**
-- 🏗️ Learn **System Design**
-- 🌍 Contribute to **Open Source**
-- 🏆 Participate in more **hackathons**
-- 🚀 Build and deploy more real-world projects
-
----
-
-# 📈 Current Focus
-
-```text
-DSA                 ███████░░░░░░░░  Learning & Practicing
-Backend Engineering █████████░░░░░░  Primary Focus
-GenAI               ████████░░░░░░░  Deepening Knowledge
-System Design       █████░░░░░░░░░  Learning
-DevOps              ████░░░░░░░░░░  Improving
-Open Source         ███░░░░░░░░░░░  Growing
-```
-
----
-
-# 📫 Connect With Me
+## ✦ The DSA Chronicle
 
 <div align="center">
 
 <a href="https://leetcode.com/u/mr_ad1tya/">
-<img src="https://img.shields.io/badge/LeetCode-mr__ad1tya-orange?style=for-the-badge&logo=leetcode">
+
+<img src="https://leetcard.jacoblin.cool/mr_ad1tya?theme=dark&font=Baloo&ext=contest" width="500" />
+
 </a>
 
-<a href="https://www.linkedin.com/in/aditya-randive-6201672b8/">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Randive-blue?style=for-the-badge&logo=linkedin">
-</a>
+<img src="https://img.shields.io/badge/Current-158%2B%20Solved-C49A45?style=for-the-badge&logo=leetcode&logoColor=white" />
 
-<a href="https://github.com/adityarandive10">
-<img src="https://img.shields.io/badge/GitHub-adityarandive10-black?style=for-the-badge&logo=github">
-</a>
+*The objective is not simply to solve more problems. It is to become a better problem solver.*
 
 </div>
 
-<br>
+---
+
+## ✦ GitHub Analytics
 
 <div align="center">
 
-### 💡 Build. Break. Learn. Repeat.
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=adityarandive10&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github" />
 
-<img src="https://komarev.com/ghpvc/?username=adityarandive10&label=Profile%20Views&color=0e75b6&style=flat" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarandive10&layout=compact&theme=gruvbox&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=adityarandive10&theme=gruvbox&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityarandive10&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## ✦ Current Focus
+
+| Track | Direction |
+|:--|:--|
+| DSA & Problem Solving | Consistent practice and stronger fundamentals |
+| Backend Engineering | APIs, databases, Java and Spring Boot |
+| Generative AI | RAG, LLM applications and AI agents |
+| System Design | Scalable and distributed architectures |
+| DevOps & Cloud | Docker, Linux and deployment |
+| Open Source | Meaningful contributions and collaboration |
+
+---
+
+## ✦ 2026–27 Vision
+
+- [ ] Solve 500+ LeetCode problems
+- [ ] Build production-quality backend applications
+- [ ] Strengthen Java and Spring Boot
+- [ ] Develop practical GenAI and agentic AI projects
+- [ ] Learn system design and distributed systems
+- [ ] Contribute to open-source projects
+- [ ] Participate in hackathons and developer communities
+
+---
+
+## ✦ Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aditya-randive-6201672b8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-C49A45?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://leetcode.com/u/mr_ad1tya/"><img src="https://img.shields.io/badge/LeetCode-Profile-C49A45?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
+<a href="https://github.com/adityarandive10"><img src="https://img.shields.io/badge/GitHub-Profile-C49A45?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<sub>ॐ</sub>
+
+### Build with purpose. Learn with discipline. Create with impact.
+
+<img src="https://komarev.com/ghpvc/?username=adityarandive10&label=PROFILE%20VISITORS&color=123B32&style=flat-square" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B18,50:123B32,100:071B18&height=75&section=footer" width="100%" />
 
 </div>
