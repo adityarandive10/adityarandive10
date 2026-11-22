@@ -7,10 +7,7 @@
 
 ### Building ideas into intelligent systems.
 
-<p dir="rtl">
-  <em>حكمة · علم · عمل</em>
-</p>
-
+<p dir="rtl"><em>حكمة · علم · عمل</em></p>
 <sub>Wisdom · Knowledge · Action</sub>
 
 <br/><br/>
@@ -263,6 +260,11 @@ Experiments with retrieval pipelines, LLM applications and AI agents.
 <a href="https://leetcode.com/u/mr_ad1tya/">
 <img src="https://img.shields.io/badge/LeetCode-Follow-C6A15B?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<p dir="rtl"><em>الطموح لا حدود له</em></p>
+<sub>Ambition has no limits.</sub>
 
 <br/><br/>
 
