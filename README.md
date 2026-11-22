@@ -7,6 +7,14 @@
 
 ### Building ideas into intelligent systems.
 
+<p dir="rtl">
+  <em>حكمة · علم · عمل</em>
+</p>
+
+<sub>Wisdom · Knowledge · Action</sub>
+
+<br/><br/>
+
 **Backend Engineering · Generative AI · Problem Solving**
 
 <br/>
@@ -257,8 +265,6 @@ Experiments with retrieval pipelines, LLM applications and AI agents.
 </a>
 
 <br/><br/>
-
-<sub>بِسْمَة — A subtle signature of creativity</sub>
 
 ### Think. Engineer. Innovate.
 
